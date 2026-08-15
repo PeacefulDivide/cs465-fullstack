@@ -58,6 +58,22 @@ export class TripListing  implements OnInit {
     })
   }
 
+  // Handle trip deletion and refresh list
+  public deleteTrip(tripCode: string): void {
+    if (confirm(`Are you sure you want to delete trip: ${tripCode}?`)) {
+      this.tripData.deleteTrip(tripCode)
+      .subscribe({
+        next: () => {
+          console.log(`Trip ${tripCode} deleted successfully`);
+          this.getStuff(); // Reloads trips from backend
+        },
+        error: (error: any) => {
+          console.log('Error deleting trip: ' + error);
+        }
+      });
+    }
+  }
+
   ngOnInit(): void {
     console.log('ngOnInit');
     this.getStuff();
