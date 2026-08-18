@@ -106,7 +106,7 @@ If you were able to successfully start the servers during the [Installation](#ge
     </tr>
     <tr>
         <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/TripsScreenWithoutLogin.png" alt="Homepage" width="100%"></td>
-        <td><img src="hhttps://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/LogInScreen.png" alt="Login" width="100%"></td>
+        <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/LogInScreen.png" alt="Login" width="100%"></td>
     </tr>
 </table>
 
