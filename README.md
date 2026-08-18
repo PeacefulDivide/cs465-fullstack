@@ -1,4 +1,4 @@
-![Travlr Getaways]
+![Travlr Getaways](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/Travlr%20Getaways%20Logo.png)
 
 ## Table of Contents
 1. [Overview](#project-overview)
@@ -84,14 +84,18 @@ Ensure you followed all steps to get both servers up and running in the [Install
 
 ### Customer-facing website
 
-![Travel Page]
+If you were able to successfully start the servers you should see this screen when navigating to ```http://localhost:3000/travel``` 
+
+![Travel Page](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdateScreen.png)
 
 ### Admin SPA
 
-![Homepage]
-![Login Screen]
-![Homepage after Login]
-![Editing a Trip]
+If you were able to successfully start the servers during the [Installation](#getting-started) step. You should see the homepage at ```http://localhost:4200```
+
+![Homepage](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/TripsScreenWithoutLogin.png)
+![Login Screen](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/LogInScreen.png)
+![Homepage after Login](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdatedCardListing.png)
+![Editing a Trip](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/EditTrip.png)
 
 ## Course Reflection 
 
