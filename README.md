@@ -86,16 +86,40 @@ Ensure you followed all steps to get both servers up and running in the [Install
 
 If you were able to successfully start the servers you should see this screen when navigating to ```http://localhost:3000/travel``` 
 
-![Travel Page](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdateScreen.png)
+<table>
+    <tr>
+        <th width="100%">Travel Page</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdateScreen.png" alt="Travel" width="100%"></td>
+    </tr>
+</table>
 
 ### Admin SPA
 
 If you were able to successfully start the servers during the [Installation](#getting-started) step. You should see the homepage at ```http://localhost:4200```
 
-![Homepage](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/TripsScreenWithoutLogin.png)
-![Login Screen](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/LogInScreen.png)
-![Homepage after Login](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdatedCardListing.png)
-![Editing a Trip](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/EditTrip.png)
+<table>
+    <tr>
+        <th width="50%">Homepage</th>
+        <th width="50%">Login Screen</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/TripsScreenWithoutLogin.png" alt="Homepage" width="100%"></td>
+        <td><img src="hhttps://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/LogInScreen.png" alt="Login" width="100%"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th width="50%">Successful Login</th>
+        <th width="50%">Editing a Trip</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/UpdatedCardListing.png" alt="Editing trip" width="100%"></td>
+        <td><img src="https://github.com/PeacefulDivide/cs465-fullstack/blob/main/assets/EditTrip.png" alt="Trip edited" width="100%"></td>
+    </tr>
+</table>
 
 ## Course Reflection 
 
