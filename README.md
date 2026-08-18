@@ -34,6 +34,8 @@ Travlr Getaways allows users to browse travel packages and trip information. Adm
 - **JavaScript, HTML, CSS** for frontend development
 - **JWT** for authentication and authorization
 
+[↑ Back to Top](#table-of-contents)
+
 ## Getting Started 
 
 **Prerequisites**
@@ -78,6 +80,8 @@ Ensure you have all frameworks installed under [Prerequisites](#getting-started)
 
 9. Open another browser tab and go to ```http://localhost:4200``` to access the admin SPA
 
+[↑ Back to Top](#table-of-contents)
+
 ## Usage ##
 
 Ensure you followed all steps to get both servers up and running in the [Installation](#getting-started) step.
@@ -121,6 +125,8 @@ If you were able to successfully start the servers during the [Installation](#ge
     </tr>
 </table>
 
+[↑ Back to Top](#table-of-contents)
+
 ## Course Reflection 
 
 ### Architecure 
@@ -149,3 +155,4 @@ This course has helped prepare me for my goal of working as a software engineer 
 
 Ultimately, this course has given me foundational and practical experience in full stack software development. With this newfound knowledge I can now create my own full stack web app from scratch to continue learning and building these skills.
 
+[↑ Back to Top](#table-of-contents)
