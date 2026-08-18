@@ -12,7 +12,9 @@
 
 This is a full stack travel booking web application built during my SNHU CS 465: Full Stack Development I course. This project uses the MEAN stack to provide a customer-facing website, RESTful API, MongoDB database, and Angular-based administrator single page application (SPA).
 
-Travlr Getaways allows users to browse travel packages and trip information. Admins can log in to a secure Angular SPA to manage travel package information.
+Travlr Getaways website allows users to browse travel packages and trip information. Admins are able to log into a secure Angular SPA to manage travel package information.
+
+To gain a deeper understanding of this project, check out the [projects guidelines](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/documents/CS%20465%20Project%20Guidlines%20and%20Rubric.pdf). I also created an indepth [design document](https://github.com/PeacefulDivide/cs465-fullstack/blob/main/documents/CS%20465%20Software%20Design%20Document%20Andrew%20Allen.pdf) that highlights my whole learning process and what was accomplished.
 
 ## Key Features 
 
